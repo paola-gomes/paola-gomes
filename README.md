@@ -1,11 +1,11 @@
 # hey, I’m Paola ✨
 
 ## I am currenly learning...
-[![My Skills](https://skills.thijs.gg/icons?i=kotlin,py,r,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=kotlin)](https://skills.thijs.gg)
 
 
 ### I’ve learned:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,mysql,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,mysql,figma,py,r,docker)](https://skills.thijs.gg)
 
 
 ## You can reach me
